@@ -1,3 +1,6 @@
+// Written by Nnamdi Monwe 3/17/2019
+// Courtesy of Wayne Robotics Club
+
 // Outputs (###### Remeber to assign appropriate pins ######)
 #define DIR_1 7 // Direction pin for left motor (Use digital pin)
 #define DIR_2 4 // Direction pin for right motor (Use digital pin)
